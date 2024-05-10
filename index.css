@@ -4,14 +4,18 @@ body {
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
+    align-items: ce;
 }
 
 .container {
+    top: 30%;
+    left: 35%;
     background: white;
     max-width: fit-content;
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
+    position: absolute;
 }
 
 h1 {
